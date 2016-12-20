@@ -1,4 +1,4 @@
-# Long-term_time_series_Establishment_and_Enterprise_Census
+# long-term_time_series_establishment_and_enterprise_census
 　【和歌山県　長期時系列　事業所・企業統計調査です。】
 ◆事業所・企業統計調査とは
 事業所・企業統計調査は、我が国すべての事業所の地域別、産業別、従業者数等の実態を明らかにするとともに、各種統計調査の事業所及び企業の名簿を得ることを目的としています。
